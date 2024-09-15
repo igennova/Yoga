@@ -8,7 +8,7 @@ export default function Home() {
     return (
         <div className='home-container'>
             <div className='home-header'>
-                <h1 className='home-heading'>Lucky Yoga Trainer</h1>
+                <h1 className='home-heading'>Kavya Yoga Trainer</h1>
                 <Link to='/about'>
                     <button 
                         className="btn btn-secondary" 
